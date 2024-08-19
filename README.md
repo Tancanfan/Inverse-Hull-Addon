@@ -1,4 +1,4 @@
-#### Inverse Hull Outline Addon
+### Inverse Hull Outline Addon
 ## Description:
 The Inverse Hull Outline addon for Blender automatically adds a cartoon-style outline to selected 3D meshes, giving them a stylized, cel-shaded appearance. This can be particularly useful for creating 3D models with a hand-drawn or comic book-like aesthetic.
 
